@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * 
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  *
  */
 

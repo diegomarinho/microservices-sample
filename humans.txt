@@ -1,6 +1,6 @@
 /* TEAM */
                            
-Name: Vijayendra Mudigal.                     
+Name: Diego Marinho.
 Email: vijayendrap@gmail.com     
 Twitter: vmudigal.
 Location: Bengaluru, India.

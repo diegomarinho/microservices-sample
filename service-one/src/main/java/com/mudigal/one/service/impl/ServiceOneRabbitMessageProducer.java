@@ -15,7 +15,7 @@ import com.mudigal.one.model.NameValueTO;
 
 /**
  * 
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  *
  */
 @Profile("!default")

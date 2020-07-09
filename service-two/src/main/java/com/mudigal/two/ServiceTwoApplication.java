@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 
 @EnableDiscoveryClient

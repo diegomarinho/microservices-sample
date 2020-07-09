@@ -1,6 +1,6 @@
 FROM openjdk:8-jre-alpine
 
-LABEL author="Vijayendra Mudigal"
+LABEL author="Diego Marinho"
 MAINTAINER vijayendrap@gmail.com
 
 # environment

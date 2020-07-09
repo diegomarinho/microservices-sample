@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * 
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  *
  */
 @Repository

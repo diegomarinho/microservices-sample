@@ -14,7 +14,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * Swagger configuration
  *
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Configuration
 @EnableSwagger2
@@ -31,7 +31,7 @@ public class SwaggerConfig {
   private ApiInfo generateApiInfo() {
     return new ApiInfo("Microservices Sample - Service Two",
         "API documentation for service two service with h2/mysql database", "5.0.0", "",
-        new Contact("Vijayendra Mudigal", "https://vijayendra.mudigal.com",
+        new Contact("Diego Marinho", "https://vijayendra.mudigal.com",
             "vijayendrap@gmail.com"), "Apache License 2.0", "#",
         Collections.emptyList());
   }

@@ -1,7 +1,7 @@
 # Create image based on the official Node 12 image from dockerhub
 FROM node:12-alpine
 
-LABEL author="Vijayendra Mudigal"
+LABEL author="Diego Marinho"
 MAINTAINER vijayendrap@gmail.com
 
 # Create a directory where our app will be placed

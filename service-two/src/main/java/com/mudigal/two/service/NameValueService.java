@@ -4,7 +4,7 @@ import com.mudigal.two.model.AllNameValueTO;
 import com.mudigal.two.model.NameValueTO;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 public interface NameValueService {
 

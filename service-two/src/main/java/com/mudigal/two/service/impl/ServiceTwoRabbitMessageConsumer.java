@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Profile("!default")
 @Service("serviceTwoRabbitMessageConsumer")

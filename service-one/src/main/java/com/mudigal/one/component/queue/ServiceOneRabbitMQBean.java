@@ -18,7 +18,7 @@ import org.springframework.messaging.handler.annotation.support.DefaultMessageHa
 /**
  * RabbitMQ bean configurations
  * 
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  *
  */
 @Configuration

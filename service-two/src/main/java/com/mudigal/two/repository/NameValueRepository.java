@@ -7,7 +7,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Repository
 public interface NameValueRepository extends JpaRepository<NameValue, String> {

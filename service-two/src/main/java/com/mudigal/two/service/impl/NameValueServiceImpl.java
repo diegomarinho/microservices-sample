@@ -17,7 +17,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Service
 @Transactional(value = TxType.REQUIRES_NEW)

@@ -4,7 +4,7 @@ import lombok.Data;
 import lombok.ToString;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Data
 @ToString

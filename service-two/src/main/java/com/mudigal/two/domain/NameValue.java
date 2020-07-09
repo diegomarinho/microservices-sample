@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 
 @Data

@@ -13,7 +13,7 @@ import org.springframework.messaging.MessagingException;
 import org.springframework.stereotype.Service;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Profile("!default")
 @Service("serviceTwoRabbitMessageProducer")

@@ -10,7 +10,7 @@ import org.springframework.web.filter.CorsFilter;
 
 /**
  * 
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  *
  */
 

@@ -16,7 +16,7 @@ import org.springframework.messaging.converter.MappingJackson2MessageConverter;
 import org.springframework.messaging.handler.annotation.support.DefaultMessageHandlerMethodFactory;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Configuration
 @Profile("!default")

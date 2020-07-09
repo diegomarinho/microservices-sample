@@ -5,7 +5,7 @@ import java.util.Map;
 import lombok.Data;
 
 /**
- * @author Vijayendra Mudigal
+ * @author Diego Marinho
  */
 @Data
 public class AllNameValueTO {
