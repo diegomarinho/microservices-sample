@@ -61,7 +61,7 @@ Microservices sample project uses a number of open source projects to work prope
 
 ### Help
 
-Feel free to reach "vijayendrap@gmail.com" incase of any concerns.
+Feel free to reach "diegomarinhoalmeida@gmail.com" incase of any concerns.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.)
 

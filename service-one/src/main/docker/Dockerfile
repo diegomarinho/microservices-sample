@@ -1,7 +1,7 @@
 FROM openjdk:8-jre-alpine
 
 LABEL author="Diego Marinho"
-MAINTAINER vijayendrap@gmail.com
+MAINTAINER diegomarinhoalmeida@gmail.com
 
 # environment
 EXPOSE 8082

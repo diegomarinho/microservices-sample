@@ -2,7 +2,7 @@
 FROM node:12-alpine
 
 LABEL author="Diego Marinho"
-MAINTAINER vijayendrap@gmail.com
+MAINTAINER diegomarinhoalmeida@gmail.com
 
 # Create a directory where our app will be placed
 RUN mkdir -p /usr/src/app
