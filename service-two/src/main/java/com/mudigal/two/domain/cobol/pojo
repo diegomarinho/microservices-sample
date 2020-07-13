@@ -1,0 +1,31 @@
+01  WABEND-TAB                 pic  X(30).
+01  WABEND-MSG                 PIC  X(200).
+01  WABEND-PARAGRAFO           PIC  X(040).
+01  WABEND-COD-ERRO            PIC  X(003).
+01  WABEND-SQLCODE             PIC S9(005).
+01  WABEND-SQLMSG              PIC  X(200).
+01  WABEND-OPER                PIC  X(040).
+01  W-80HIFENS                 PIC  X(080).
+
+01 DAT-SIS-WS                   PIC  9(008).
+01  DAT-SIS-WS-R     REDEFINES DAT-SIS-WS.
+    03  ANO-SIS-WS             PIC  9(004).
+    03  MES-SIS-WS             PIC  9(002).
+    03  DIA-SIS-WS             PIC  9(002).
+
+01  HOR-SIS-WS                 PIC  9(008).
+01  HOR-SIS-WS-R     REDEFINES HOR-SIS-WS.
+    03  HOR-MIN-WS             PIC  9(004).
+    03  FILLER                 PIC  9(004).
+
+01  PRM-TIP-DATE-WS.
+    03  ANO-PRM-TIP-DATE-WS    PIC  X(004).
+    03  FILLER                 PIC  X(001).
+    03  MES-PRM-TIP-DATE-WS    PIC  X(002).
+    03  FILLER                 PIC  X(001).
+    03  DIA-PRM-TIP-DATE-WS    PIC  X(002).
+
+01  TIP-DATE-NUM-WS.
+    03  ANO-TIP-DATE-NUM-WS    PIC  9(004).
+    03  MES-TIP-DATE-NUM-WS    PIC  9(002).
+    03  DIA-TIP-DATE-NUM-WS    PIC  9(002).

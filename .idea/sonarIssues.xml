@@ -198,6 +198,56 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/CopyBookWorkingStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/MyCopyBook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/copybook/CopyBook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/copybook/CopyBookEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/copybook/CopyBookSqlStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/copybook/CopyBookWorkingStorage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/copybook/enums/CopyBookEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/copybook/enums/CopyBookWorkingStorageEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/copybook/enums/Mensagem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/domain/cobol/pojo">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/service-two/src/main/java/com/mudigal/two/mapper/NameValueMapper.java">
           <value>
             <set />
